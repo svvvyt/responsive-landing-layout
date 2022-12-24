@@ -311,8 +311,8 @@ h2 {
   transition: $transition;
 
   &__item {
-    width: $base * 2;
-    height: $base * 2;
+    width: $base * 3;
+    height: $base * 3;
     border-radius: 100%;
     background-color: $color-gray-100;
     cursor: pointer;
